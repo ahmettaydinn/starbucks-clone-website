@@ -45,7 +45,7 @@ parallax-website(folder)
 
 ## Screenshot
 
-<a href="https://bavi-boop.github.io/starbucks-clone-website/"><img src="starbucks.gif" alt="screenshot" width="600" height="500"></a>
+<a href="https://bavi-boop.github.io/starbucks-clone-website/"><img src="coffee.gif" alt="screenshot" width="570" height="390"></a>
 
 ## Links
 <hr>
