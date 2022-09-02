@@ -20,7 +20,7 @@
 
 
 ## The challenge
-Project aims to clne official Starbucks website.
+Project aims to clone official Starbucks website.
 
 ## Problem Statement
 
