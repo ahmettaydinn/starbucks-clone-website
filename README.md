@@ -26,8 +26,7 @@ Project aims to clne official Starbucks website.
 
 - Your company has recently started on a project that aims to clone Parallax Website. So you and your colleagues have started to work on the project.
 <hr>
-<b>Check The Live Website ➡️</b> <a href="https://bavi-boop.github.io/starbucks-clone-website/">Live Website</a>
-<hr>
+
 
 
 ## Project Skeleton 
@@ -52,7 +51,7 @@ parallax-website(folder)
 
 ## Links
 <hr>
-<b>Check The Live Website ➡️</b> <a href="https://bavi-boop.github.io/parallax-website/">Live Website</a>
+<b>Check The Live Website ➡️</b> <a href="https://bavi-boop.github.io/starbucks-clone-website/">Live Website</a>
 <hr>
 
 ### Built with
